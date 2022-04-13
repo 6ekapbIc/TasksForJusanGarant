@@ -1,0 +1,9 @@
+C:\Users\Cube001\Desktop\lessons\task Jusan\task\task\task\bin\Debug\task.exe.config
+C:\Users\Cube001\Desktop\lessons\task Jusan\task\task\task\bin\Debug\task.exe
+C:\Users\Cube001\Desktop\lessons\task Jusan\task\task\task\bin\Debug\task.pdb
+C:\Users\Cube001\Desktop\lessons\task Jusan\task\task\task\obj\Debug\task.csproj.AssemblyReference.cache
+C:\Users\Cube001\Desktop\lessons\task Jusan\task\task\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+C:\Users\Cube001\Desktop\lessons\task Jusan\task\task\task\obj\Debug\task.exe
+C:\Users\Cube001\Desktop\lessons\task Jusan\task\task\task\obj\Debug\task.pdb
+C:\Users\Cube001\Desktop\lessons\task Jusan\task\task\task\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cube001\Desktop\lessons\task Jusan\task\task\task\bin\Debug\Newtonsoft.Json.xml
